@@ -1,5 +1,4 @@
 Data regarding traffic count for M50 can be found at https://data.gov.ie/dataset/traffic-counter-data
-However, it is not clear how to download it as the url provided in Dhivya's codes are not linked to a website to visualize the variables in the data
 
 Follow the steps provided in the file download.py to download the data of particular dataset
 This error appears while downloading 
